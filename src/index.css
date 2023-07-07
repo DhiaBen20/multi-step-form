@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .sidebar-bg {
+        background-image: url(/bg-sidebar-mobile.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    @media (min-width: theme("screens.md")) {
+        .sidebar-bg {
+            background-image: url(/bg-sidebar-desktop.svg);
+        }
+    }
+}
