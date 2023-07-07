@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Frontend Mentor](https://rococo-strudel-7fdfa6.netlify.app/)
--   Live Site URL: [Github](https://github.com/DhiaBen20/multi-step-form)
+-   Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/multistep-form--jlvBbjTkb)
+-   Live Site URL: [Netlify](https://rococo-strudel-7fdfa6.netlify.app/)
 
 ## My process
 
