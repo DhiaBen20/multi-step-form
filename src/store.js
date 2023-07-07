@@ -1,7 +1,7 @@
 import { create } from "zustand";
 
 let useStore = create((set) => ({
-    step: 4,
+    step: 1,
     setStep: (step) => set({ step }),
 
     isSubmitted: false,
